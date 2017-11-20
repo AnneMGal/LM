@@ -1,3 +1,5 @@
+# Author: AM
+
 import sys
 
 def encode(input_string):
